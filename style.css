@@ -1,0 +1,44 @@
+* { font-family: sans-serif;}
+
+#toolbar_upper {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 2px;
+  top: 2px;
+  width: 700px;
+  height: 32px;
+  z-index: 6;
+}
+
+.scenes_viewer {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 2px;
+  top: 38px;
+  width: 349px;
+  height: auto;
+  z-index: 5;
+}
+
+.scripts_viewer {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 353px;
+  top: 38px;
+  width: 349px;
+  height: auto;
+  z-index: 4;
+}
+
+.side-menu {
+  border-width: 2px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 705px;
+  top: 2px;
+  width: 700px;
+  height: auto;
+  z-index: 3;
+}
