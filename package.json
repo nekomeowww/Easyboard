@@ -1,5 +1,12 @@
 {
   "name"    : "UnBoarded",
   "version" : "0.0.1",
+  "author": "nekomeowww",
+  "description": "A powerfull scripts viewer and editor written with Electron.",
+  "repository":
+  {
+		"type": "git",
+		"url": "https://github.com/nekomeowww/UnBoarded/"
+	},
   "main"    : "main.js"
 }
